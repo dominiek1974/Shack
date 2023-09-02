@@ -1,2 +1,6 @@
 print("hallo")
-print("hallo world 2")
+
+# for loop
+
+for i in range(50, 100, +3):
+    print(i)
